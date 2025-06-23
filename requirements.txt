@@ -7,4 +7,3 @@ qrcode
 Pillow
 pyttsx3
 SpeechRecognition
-pyaudio
