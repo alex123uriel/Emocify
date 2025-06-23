@@ -190,7 +190,7 @@ def set_background_image(image_file):
     """
     st.markdown(css, unsafe_allow_html=True)
 
-set_background_image("set_background_image("assets/fondo.png") # Asegúrate que exista esta imagen
+set_background_image("assets/fondo.png")  # sin comillas dobles extra ni error de sintaxis
 
 # Estilo para widgets
 st.markdown(
